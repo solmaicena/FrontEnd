@@ -1,0 +1,106 @@
+/*------------------Esto es un comentario-------------*/
+
+main {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#fotocv {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#linksobremi {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #61B15A;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    font-size: large;
+}
+
+#secciondatospersonales {
+    line-height: 23px;
+}
+
+h1 { 
+    letter-spacing: 10px;
+}
+
+#cuerpo {
+    padding-top: 50px;
+    padding-right: 140px;
+    padding-bottom: 140px;
+    padding-left: 130px;
+}
+
+span {
+    font-size: 15px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #61B15A;
+    font-weight: bold;
+    background: #efdbc2;
+}
+
+h3 {
+    color: #61B15A;
+    font-weight: bold;
+    background:#efdbc2;
+}
+
+#numeros { 
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 84.69%;
+    font-style: normal;
+}
+
+#listadeabajo {
+    text-indent: 125px;
+}
+
+#espacio {
+    text-indent: 81px;
+}
+
+ul li span {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.textofooter{
+    font-size: 20px;
+    line-height: 84.69%;
+}
+
+.imagenesfooter {
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+footer {
+    text-align: center;
+    display: block;
+    background: #61B15A;
+}
+
+#sobremi {
+    color: #61B15A;
+    text-decoration: none;
+}
+
+nav {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    display: block;
+}
+
+
